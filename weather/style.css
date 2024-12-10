@@ -1,0 +1,79 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+     background-image:url( https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+     font-size: 100%;
+}
+
+.card {
+    background: #000000d3;
+    color :whitesmoke;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 2em;
+    box-shadow: 10px 10px 10px #000000;
+}
+.search{
+    display:flex;
+    align:center;
+    justify-content: center;
+}
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 44px;
+    width: 44px;
+    outline: none;
+    background: #7c7c7c2b;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: 0.2sease-in-out;
+}
+
+input.search-bar {
+    border: none;
+    outline: none;
+    padding: 0.4em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: cursive;
+    font-size: 105%;
+    width: calc(100%-100px);
+}
+
+button:hover {
+    background: #7c7c7c8b;
+}
+h1.temp {
+    margin: 0;
+    margin-bottom: 0.4em;
+}
+.flex {
+    display: flex;
+    align-items: center;
+
+}
+.description {
+    text-transform: capitalize;
+    margin-left: 8px;
+
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(163, 248, 67);
+  color: rgb(6, 1, 1);
+  text-align: center;
+}
+
