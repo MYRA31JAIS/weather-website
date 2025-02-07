@@ -3,8 +3,8 @@ WeatherApp is a simple and elegant web application that allows users to check re
 
 🎯 Features
 
-✅ Search for weather information by city name
-✅ Displays temperature, humidity, and wind speed
+✅ Search for weather information by city name <br>
+✅ Displays temperature, humidity, and wind speed <br>
 ✅ Shows a weather icon based on conditions
 ✅ Responsive and minimalistic design
 
