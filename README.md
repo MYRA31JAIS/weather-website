@@ -5,22 +5,24 @@ WeatherApp is a simple and elegant web application that allows users to check re
 
 ✅ Search for weather information by city name <br>
 ✅ Displays temperature, humidity, and wind speed <br>
-✅ Shows a weather icon based on conditions
+✅ Shows a weather icon based on conditions <br>
 ✅ Responsive and minimalistic design
 
 🛠 Technologies Used
 
-HTML
-CSS
-JavaScript
+HTML<br>
+CSS<br>
+JavaScript<br>
 OpenWeather API
-🚀 How to Use
-Open the website in your browser.
-Enter a city name in the search bar and click the search button.
-View real-time weather details for the selected city.
+
+🚀 How to Use<br>
+Open the website in your browser.<br>
+Enter a city name in the search bar and click the search button.<br>
+View real-time weather details for the selected city.<br>
+
 🔧 Future Enhancements
-Improve error handling for incorrect city names
-Add background changes based on weather conditions
+Improve error handling for incorrect city names<br>
+Add background changes based on weather conditions<br>
 Enhance UI with more animations
 
 📝 Author
